@@ -28,7 +28,7 @@ This is a simple project written in **GoLang** to enhance my skills with the Go 
 
 3. Run the program:
     ```bash
-    ./GoJokes
+    ./main
     ```
 
 ## 🌟 How It Works
